@@ -1,5 +1,11 @@
-### Hi there 👋
-
+### How ya goin?
+My name is Vikram Ramavarapu. I am currently a student at the University of Illinois at Urbana-Champaign studying Mathematics and Computer Science. Although I like exploring all kinds of areas and trying out a plethora of different projects, my main interests include BioInformatics/Health Informatics, Machine Learning/Artificial Intelligence (AI), and Human Computer Interaction (HCI).  
+  
+Take a look at some of the pinned projects I have below, and come back to visit as this profile needs updating and I plan to do so! Otherwise
+  
+- 💬 Ask me about pretty much anything...
+- 📫 How to reach me: vikramr2@illinois.edu
+- 😄 Pronouns: He/Him
 <!--
 **vikramr2/vikramr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
