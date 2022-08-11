@@ -5,7 +5,7 @@ Take a look at some of the pinned projects I have below, and come back to visit 
   
 - 💬 Ask me about pretty much anything...
 - 📫 How to reach me: vikramr2@illinois.edu
-- 😄 Pronouns: He/Him
+
 <!--
 **vikramr2/vikramr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
