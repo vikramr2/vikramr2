@@ -3,7 +3,6 @@ My name is Vikram Ramavarapu. I am currently a student at the University of Illi
   
 Take a look at some of the pinned projects I have below, and come back to visit as this profile needs updating and I plan to do so! Otherwise
   
-- 💬 Ask me about pretty much anything...
 - 📫 How to reach me: vikramr2@illinois.edu
 
 <!--
