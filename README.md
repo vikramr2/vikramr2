@@ -1,7 +1,7 @@
 ### Hi!
-My name is Vikram Ramavarapu. I am currently a grad student at the University of Illinois at Urbana-Champaign studying Bioinformatics and Computational Biology. 
+My name is Vikram Ramavarapu. I am currently a PhD student at the University of Illinois at Urbana-Champaign studying Computer Science. 
   
-Take a look at some of the pinned projects I have below, and come back to visit as this profile needs updating and I plan to do so! Otherwise
+Take a look at some of the pinned projects I have below, and come back to visit as this profile needs updating, and I plan to do so! Otherwise
   
 - 📫 How to reach me: vikramr2@illinois.edu
 
