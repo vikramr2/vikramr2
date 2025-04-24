@@ -1,5 +1,5 @@
 ### Hi!
-My name is Vikram Ramavarapu. I am currently a PhD student at the University of Illinois at Urbana-Champaign studying Computer Science. 
+My name is Vikram Ramavarapu. I am currently a PhD student at the University of Illinois at Urbana-Champaign studying Computer Science. I'm really interested in networks (i.e. really big graphs) and their various applications.
   
 Take a look at some of the pinned projects I have below, and come back to visit as this profile needs updating, and I plan to do so! Otherwise
   
